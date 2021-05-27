@@ -1,4 +1,4 @@
-# Example application code for the python architecture book
+# Example application code for the python architecture book 筆記
 
 ## Chapters
 
